@@ -34,6 +34,13 @@ characters/yuri.chr: ASCII text, with very long lines, with no line terminators
 
 ## Decode
 
+### Natsuki
+
+```bash
+$ python natsuki.py
+# Output: decode/natsuki.png
+```
+
 ### Sayori
 
 ```bash
