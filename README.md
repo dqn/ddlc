@@ -34,6 +34,13 @@ characters/yuri.chr: ASCII text, with very long lines, with no line terminators
 
 ## Decode
 
+### Monika
+
+```bash
+$ python monika.py
+# Output: decode/monika.txt
+```
+
 ### Natsuki
 
 ```bash
